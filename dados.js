@@ -3,7 +3,7 @@ let dados = [
         titulo: "Rayssa Leal",
         descricao: "Rayssa Leal, a Fadinha, é uma das maiores promessas do skate mundial. A brasileira já conquistou diversos títulos e inspira milhões de jovens com seu talento e carisma.",
         link: "https://pt.wikipedia.org/wiki/Rayssa_Leal",
-        tags: "skte fata sk8"
+        tags: "skate fada fadinha sk8"
     }, 
     {
         titulo: "Rebeca Andrade",
